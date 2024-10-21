@@ -1,0 +1,143 @@
+body {
+    display: flex;
+    flex-direction: column;
+    width: 387px;
+    height: 591px;
+    top: 0px;
+    left: 0px;
+    gap: 0px;
+    border-radius: 12.5px 12.5px 0px 0px;
+    border: 3.75px 3.75px 0px 3.75px;
+    opacity: 0px;
+    border-width: 3.75px, 3.75px, 0px, 3.75px;
+    border-style: solid;
+    border-color: #CCEFEC;
+
+    }
+    
+    .header {
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .edit-icon {
+        width: 19.97px;
+        height: 19.99px;
+        top: 46.23px;
+        left: 334.57px;
+        gap: 0px;
+        opacity: 0px;
+        color: #2DBDB1;
+        width: 19.97px;
+    
+    }
+    
+    h1 {
+    width: 293px;
+    height: 30px;
+    top: 35.75px;
+    left: 35px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 27.5px;
+    font-weight: 400;
+    line-height: 34.72px;
+    text-align: left;
+    color: #4B5853;
+    padding-left: 20px;
+    
+    }
+    
+    .fall-text {
+    width: 109.86px;
+    height: 24.99px;
+    top: 77.47px;
+    left: 22.47px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oxygen;
+    font-size: 22.5px;
+    font-weight: 700;
+    line-height: 28.41px;
+    text-align: right;
+    color: #4B5853;
+    padding-left: 20px;
+    
+    }
+    
+    .middle {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        font-family: Oxygen;
+    }
+
+    
+    .to-do {
+        display: flex;
+        flex-direction: row;
+        width: 293px;
+        height: 25px;
+        top: 140.75px;
+        left: 65px;
+        gap: 0px;
+        opacity: 0px;
+        padding: 15px;
+        size: 16.25px;
+        color: #5A5A5A;
+        padding-left: 40px;
+
+        
+    }
+
+    .to-do-item {
+        display: flex;
+        flex-direction: row;
+    }
+    .checkbox {
+        width: 20px;
+        height: 20px;
+        border: 2px solid #2DBDB1;
+        border-radius: 3px;
+    
+    }
+
+
+    .text {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .hashtag1 {
+        color: #FFB987;   
+
+    }
+
+    .hashtag2 {
+        color: #2DBDB1;   
+
+    }
+
+    .hashtag3 {
+        color: #EE8B72;
+
+    }
+
+    .count {
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: flex-end;
+        padding-bottom: 5px;
+        color: #5A5A5A;
+
+    }
+
+    .end-add {
+    font-family: Oxygen;
+    font-size: 17.5px;
+    font-weight: 100;
+    line-height: 22.1px;
+    text-align: left;
+
+    }
